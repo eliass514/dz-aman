@@ -1,0 +1,22 @@
+{
+  "name": "DZ Aman - Your Sanctuary of Peace & Heritage",
+  "short_name": "DZ Aman",
+  "description": "Join the waitlist for DZ Aman - A mental health and trauma support app for Algeria",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#E8DCC8",
+  "theme_color": "#5A7A7A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

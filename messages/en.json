@@ -1,0 +1,47 @@
+{
+  "hero": {
+    "title": "AMAN",
+    "titleArabic": "أمان",
+    "tagline": "Your Sanctuary of Peace & Heritage",
+    "cta": "Join Beta"
+  },
+  "about": {
+    "heading": "Breaking the Silence on Mental Health",
+    "mission": {
+      "title": "Our Mission",
+      "description": "DZ Aman is creating a safe, culturally-sensitive space for Algerians to address trauma and mental health challenges. We understand the unique cultural context and are building support that respects our heritage."
+    },
+    "why": {
+      "title": "Why It Matters",
+      "description": "Mental health is health. In Algeria, conversations about trauma and mental wellbeing are often silenced. DZ Aman empowers individuals to seek help, heal, and thrive in a supportive environment."
+    },
+    "approach": {
+      "title": "Our Approach",
+      "description": "Combining modern therapeutic methods with cultural understanding, DZ Aman offers resources, community support, and professional guidance tailored for the Algerian experience."
+    }
+  },
+  "waitlist": {
+    "heading": "Join the Waitlist",
+    "description": "Be among the first to access DZ Aman when we launch. Your journey to peace begins here.",
+    "form": {
+      "email": "Email Address",
+      "wilaya": "Wilaya/City (Optional)",
+      "submit": "Join the Waitlist",
+      "privacy": "We respect your privacy. Your information will be kept confidential.",
+      "success": "Thank you! You're on the waitlist. We'll be in touch soon.",
+      "error": "Something went wrong. Please try again."
+    }
+  },
+  "footer": {
+    "tagline": "Your Sanctuary of Peace & Heritage",
+    "contact": "Contact",
+    "email": "hello@dzaman.dz",
+    "social": "Follow Us",
+    "rights": "© 2026 DZ Aman. All rights reserved. This project is for learning and awareness; please seek professional help."
+  },
+  "nav": {
+    "about": "About",
+    "waitlist": "Join Beta",
+    "contact": "Contact"
+  }
+}

@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --aman-beige-light: #E8DCC8;
+  --aman-beige: #D4C5B0;
+  --aman-taupe-light: #8B8680;
+  --aman-taupe: #6B6560;
+  --aman-amber: #D4A054;
+  --aman-teal: #5A7A7A;
+}
+
+body {
+  font-family: var(--font-inter), system-ui, sans-serif;
+  background-color: var(--aman-beige-light);
+  color: var(--aman-taupe);
+}
+
+/* RTL support */
+[dir="rtl"] {
+  font-family: var(--font-cairo), system-ui, sans-serif;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--aman-beige-light);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--aman-taupe-light);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--aman-taupe);
+}

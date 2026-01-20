@@ -1,0 +1,47 @@
+{
+  "hero": {
+    "title": "AMAN",
+    "titleArabic": "أمان",
+    "tagline": "Votre Sanctuaire de Paix et d'Héritage",
+    "cta": "Rejoindre la Bêta"
+  },
+  "about": {
+    "heading": "Briser le Silence sur la Santé Mentale",
+    "mission": {
+      "title": "Notre Mission",
+      "description": "DZ Aman crée un espace sûr et culturellement sensible pour les Algériens afin d'aborder les traumatismes et les défis de santé mentale. Nous comprenons le contexte culturel unique et construisons un soutien qui respecte notre patrimoine."
+    },
+    "why": {
+      "title": "Pourquoi C'est Important",
+      "description": "La santé mentale, c'est la santé. En Algérie, les conversations sur les traumatismes et le bien-être mental sont souvent passées sous silence. DZ Aman permet aux individus de demander de l'aide, de guérir et de s'épanouir dans un environnement de soutien."
+    },
+    "approach": {
+      "title": "Notre Approche",
+      "description": "En combinant des méthodes thérapeutiques modernes avec une compréhension culturelle, DZ Aman offre des ressources, un soutien communautaire et des conseils professionnels adaptés à l'expérience algérienne."
+    }
+  },
+  "waitlist": {
+    "heading": "Rejoignez la Liste d'Attente",
+    "description": "Soyez parmi les premiers à accéder à DZ Aman lors de notre lancement. Votre voyage vers la paix commence ici.",
+    "form": {
+      "email": "Adresse Email",
+      "wilaya": "Wilaya/Ville (Optionnel)",
+      "submit": "Rejoindre la Liste d'Attente",
+      "privacy": "Nous respectons votre vie privée. Vos informations resteront confidentielles.",
+      "success": "Merci ! Vous êtes sur la liste d'attente. Nous vous contacterons bientôt.",
+      "error": "Quelque chose s'est mal passé. Veuillez réessayer."
+    }
+  },
+  "footer": {
+    "tagline": "Votre Sanctuaire de Paix et d'Héritage",
+    "contact": "Contact",
+    "email": "hello@dzaman.dz",
+    "social": "Suivez-nous",
+    "rights": "© 2026 DZ Aman. Tous droits réservés. Ce projet est à but d'apprentissage et de sensibilisation ; veuillez consulter un professionnel."
+  },
+  "nav": {
+    "about": "À Propos",
+    "waitlist": "Rejoindre la Bêta",
+    "contact": "Contact"
+  }
+}
