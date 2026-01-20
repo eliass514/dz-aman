@@ -37,10 +37,8 @@ export default async function LocaleLayout({
 
   return (
     <div
-      dir={locale === "ar" ? "rtl" : "ltr"}
-      className={`${inter.variable} ${cairo.variable} ${
-        locale === "ar" ? "font-arabic" : "font-sans"
-      }`}
+      dir="ltr"
+      className={`${inter.variable} ${cairo.variable} font-sans`}
     >
       <NextIntlClientProvider messages={messages}>
         {children}

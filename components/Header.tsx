@@ -19,7 +19,6 @@ export default function Header() {
   const getLanguageName = (loc: string) => {
     const names: Record<string, string> = {
       en: 'EN',
-      ar: 'ع',
       fr: 'FR'
     };
     return names[loc] || loc.toUpperCase();
