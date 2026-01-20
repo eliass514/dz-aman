@@ -4,11 +4,11 @@ A beautiful, culturally-authentic waitlist landing page for DZ Aman - a mental h
 
 ## Features
 
-- 🌍 **Multi-language Support**: Arabic (RTL), French, and English
-- 🎨 **Algerian Design Identity**: Warm earth tones, traditional patterns, and serene landscapes
-- 📱 **Fully Responsive**: Beautiful on all devices
-- ✨ **Smooth Animations**: Powered by Framer Motion
-- 📝 **Waitlist Form**: Integrated with Formspree
+-  **Multi-language Support**: Arabic (RTL), French, and English
+-  **Algerian Design Identity**: Warm earth tones, traditional patterns, and serene landscapes
+-  **Fully Responsive**: Beautiful on all devices
+-  **Smooth Animations**: Powered by Framer Motion
+-  **Waitlist Form**: Integrated with Formspree
 
 ## Getting Started
 
